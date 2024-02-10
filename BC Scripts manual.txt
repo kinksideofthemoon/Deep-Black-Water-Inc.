@@ -7,7 +7,9 @@ Recommended way of installation:
   Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
   MS Edge: https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
 
-2. Install BCX addon manager:
+2. Install BCX addon manager (FUSAM):
   Open following page and confirm script installation: 
   https://sidiousious.gitlab.io/bc-addon-loader/loader.user.js
+
+  LINK: https://sidiousious.gitlab.io/bc-addon-loader/
 
