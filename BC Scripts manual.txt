@@ -1,0 +1,13 @@
+To be able to use all of the dolls features, you have to install BCX: https://jomshir98.github.io/bondage-club-extended/
+
+Recommended way of installation:
+
+1. Install Tampermonkey (store links: Chrome, Firefox, Microsoft Edge):
+  Chrome:  https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+  Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+  MS Edge: https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
+
+2. Install BCX addon manager:
+  Open following page and confirm script installation: 
+  https://sidiousious.gitlab.io/bc-addon-loader/loader.user.js
+
